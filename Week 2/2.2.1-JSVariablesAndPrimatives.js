@@ -21,4 +21,4 @@ let number="2";
 // Which variables need to be created?
 // What type of data needs to go in each variable?
 
-console.log("Hello, my name is " + name + ", and I am learning " + {language} + ". I have been practicing for only " +  { number} + " weeks, so my status as a master is: " + true + ".");
+console.log("Hello, my name is " + name + ", and I am learning " + language + ". I have been practicing for only " +   number + " weeks, so my status as a master is: " + true + ".");
